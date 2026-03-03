@@ -36,7 +36,7 @@ class _NewsScreenState extends State<NewsScreen> {
         backgroundColor: const Color(0xFF0D47A1),
         foregroundColor: Colors.white,
         elevation: 0,
-        title: const Text('TH3 - [Họ tên Sinh viên] - [Mã SV]'),
+        title: const Text('TH3 - Nguyễn Đỗ Quốc Khánh - 2351060454'),
         actions: [
           IconButton(
             onPressed: _fetchNews,
